@@ -1,0 +1,47 @@
+body{
+    padding: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(248, 192, 255);
+}
+.login{
+    background-color: white;
+    width: 500px;
+    height: 600px;
+    border-radius: 10px;
+    margin: auto;
+    margin: top 50px;
+}
+h1{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px ;
+}
+label{
+    font-size: 14pt;
+    margin: auto;
+    margin-left: 600px;
+    padding: 5px;
+    display: block;
+}
+
+input{
+    margin: 20px;
+    padding: 7px;
+    width: 200px;
+    margin-left: 565px;
+    border-radius: 5px;
+    
+}
+button{
+    margin-left: 565px;
+    margin-top: 20px;
+    display: block;
+    width: 220px;
+    background-color: rgb(226, 116, 253);
+    color:white;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: rgb(109, 47, 124);
+    
+}
+
